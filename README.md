@@ -60,11 +60,6 @@ The tables and views are:
 - Territory and Sales Table
 ![](TerritoryandSalesView.png)
 
-Note that i found a script that updated the dates. Part of it is shown here:
-
-
-- These tables were then imported into PowerBI desktop for analysis. 
-![](SQLtoPowerBI.png)
 
 
 - I chose the necessary tables
