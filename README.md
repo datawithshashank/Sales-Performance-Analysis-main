@@ -8,7 +8,6 @@ This is a project that shows my ability to query data from Adventure Works DW da
 
 This is an analysis of the Sales performance of AdventureWorksDW. It is done by analyzing data from different schemas on the AdventureWorks DWdatabase. I analysed data from dim_customers table, dim_date table, dim_product table, dim_territory sales and fact_internet sales table. I used SQL to query the data from the database and imported into PowerBI where the actual analysis was carried out. 
 
-**_Disclaimer_** This is not a real company as we know that adventure works DW database is compiled by Microsoft for learning purposes.
 
 ## Problem Statement
 
