@@ -66,7 +66,7 @@ I began writing several Dax and creating measures and calculated columns to get 
 
 I also created Measures in a table named "Key Measures".
 
-The queries i wrote on SQL are compiled and also uploaded here in this repository as [SalesPerformanceScript.sql](https://github.com/Amarabright/Sales-Performance-Analysis/blob/main/SalesPerformanceScript.sql)
+The queries i wrote on SQL are compiled and also uploaded here in this repository as [SalesPerformanceScript.sql](https://github.com/datawithshashank/Sales-Performance-Analysis-main/blob/main/SalesPerformanceScript.sql)
 
 ---
 ## Data Modelling:
